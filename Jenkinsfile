@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo "Testing..TES"
+                echo "Testing..TESdena neh endet neh"
                 sh '''
                 echo "doing test stuff.."
                 '''
